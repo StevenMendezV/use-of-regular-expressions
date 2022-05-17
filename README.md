@@ -1,4 +1,4 @@
-# use-of-regular-expressions
+# Use of regular expressions
 ![label](https://i.imgur.com/0aqoo0s.png)
 
 El repositorio mostrará una serie de archivos con los que he realizado la práctica en el desarrollo de expresiones regulares. 
