@@ -1,0 +1,21 @@
+-99.205646,19.429707,2275.10
+-99.205581, 19.429652,2275.10
+-99.204654,19.428952,2275.58
+Hola còmo estás, corazon ip addres: -99.204654,19.428952,2275.58 ip adrres 
+
+-99 12' 34.08"W, 19 34' 56.98"N
+-34 54' 32.00"E, -3 21' 67.00"S
+
+Ándres Carne Deres 
+Sebástian Esteban Cardenas Ortìz 
+Alejandra Barrera Moreno
+Jhon Beltrán 
+Andrés Jesús Montes Rodríguez
+Andrés de Jesús Montes Rodríguez
+Samuel de Luque 
+Rafael Ricardo Hernández
+
+Ándrés Barrera Moreno
+[\u00C1-\u00ff]
+
+First regular expresion: ([\u00C1-\u00DDA-Z]{1,}[\D\u00E0-\u00FFa-z]{1,}\s?){2,} --> Unicode range

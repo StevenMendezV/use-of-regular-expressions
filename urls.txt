@@ -1,0 +1,33 @@
+url: https://www.instagram.com/p/BXB4zsUlW5Z/?taken-by=beco.mx
+url: http://instagram.com/p/blablablah
+url: http://itam.mx/test
+http://instagram.com/p/blablablah
+https://www.vanguarsoft.com.ve
+http://platzi.com
+https://traetelo.net
+https://traetelo.net/images archivo.jsp
+url: https://subdominio.traetelo.net
+url: https://www.instagram.com/p/BXB4zsUlW5Z/?taken-by=beco.mx
+url: http://instagram.com/p/blablablah
+url: http://itam.mx/test
+http://instagram.com/p/blablablah
+https://www.google.com.co/
+https://sub.dominio.de.alguien.com/archivo.html
+https://en.wikipedia.org/wiki/.org
+https://cdn-microsoft.org/image/seixo2t9sjl_22.jpg
+https://hola.pizza
+https://platzi.com/clases/1301-expresiones-regulares/11860-urls9102/ clase
+
+
+https://api.giphy.com/v1/gifs/search?q=Rick and Morty&limit=10&api_key=DG3hItPp5HIRNC0nit3AOR7eQZAe
+
+http://localhost:3000/something?color1=red&color2=blue
+http://localhost:3000/display/post?size=small
+ http://localhost:3000/?name=satyam
+ http://localhost:3000/scanned?orderid=234
+ http://localhost:3000/getUsers?userId=12354411&name=Billy
+ http://localhost:3000/getUsers?userId=12354411
+http://localhost:3000/search?city=Barcelona
+http://localhost:3000/search?h=
+
+https?:\/\/[\w\-\.]+\.\w{2,5}\/?\S.*

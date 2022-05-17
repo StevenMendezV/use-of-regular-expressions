@@ -1,0 +1,18 @@
+esto.es_un.mail@mail.com
+esto.es_un.mail+complejo@mail.com
+dominio.com
+rodrigo.jimenez@yahoo.com.mx
+ruben@starbucks.com
+esto_no$es_email@dominio.com
+no_se_de_internet3@hotmail.com
+
+
+hola@gmail.com
+estoesunmail@gmail.com
+megustaprogramar@gmail.com
+minombreessteven@hotmail.com
+cristian@outlook.com
+
+
+First regular expresion: [\w\._]{5,30}(\+?[\w]{0,10})?@[g][\w\.\-]{3,}[l]\.\w{2,5}
+Second regular expresion: [\w\._]{5,30}(\+?[\w]{0,10})?@gmail\.\w{2,5}                  --> Only gmail
